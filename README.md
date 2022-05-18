@@ -30,3 +30,8 @@ Using Delegates
 Lambda
 
 ___________________
+
+List.sort
+List.sum
+
+
