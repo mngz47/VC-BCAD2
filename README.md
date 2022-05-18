@@ -1,13 +1,15 @@
 # VC-BCAD2
 Varsity college C# code second year
 
-
-Nirasha2022
-
+Nirasha2022<br>
 
 User not recognised error _______<br>
+git config --global user.email "mngz636@gmail.com"<br>
+git config --global user.name "mngz47"
 
-git config --global user.email "mngz636@gmail.com"
-git config --global user.name "Nash"
+_____________________________18-05-2022
+
+wpf forms
 
 
+____________________________
