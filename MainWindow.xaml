@@ -1,1 +1,8 @@
-//https://icon-icons.com/
+
+<window WindowsStartupLocation="CenterScreen" >
+<StackPanel VerticalAlignment="Center" >
+
+<TextBlock FontSize="30" Foreground="Black" TextAlignment="Center" >
+<Image Source="/Icons/hat.ico" Height="150" Width="150" ></Image>
+</StackPanel>
+</window>
