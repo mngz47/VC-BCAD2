@@ -12,4 +12,8 @@ _____________________________18-05-2022
 wpf forms
 
 
-____________________________
+____________________________Virtual Machine
+
+https://labs.azure.com/register/twbknxs5
+
+
