@@ -25,8 +25,8 @@ Calculate Monthly cost part 2
 
 A = P(1+ (i * n))
 
+____________________
+Using Delegates
+Lambda
 
-Using Delegates______________________
-
-
-
+___________________
