@@ -19,3 +19,9 @@ https://labs.azure.com/register/twbknxs5
 https://icon-icons.com/
 
 
+______________________
+
+Calculate Monthly cost part 2
+
+A = P(1+ (i * n))
+
