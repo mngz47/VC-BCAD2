@@ -39,7 +39,10 @@ _____________________________19-05-2022
 asp.net Model View Controller - MVC
 
 
+_________Entity Framework - tools package manager  console
 
+PM> Add-Migration [migration name]
+PM> Update-Database
 
 
 
