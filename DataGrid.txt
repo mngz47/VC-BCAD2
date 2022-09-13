@@ -1,0 +1,32 @@
+
+
+        public string courseName { get; set; }
+
+        public string courseCode { get; set; }
+
+
+_________________________________________
+
+
+	  Course course = new Course();
+                    course.courseName= course_name.Text;    
+                    course.courseCode= course_code.Text;
+                    course.noCredits = credits.Text;
+                    course.classHrs = class_hrs.Text;
+
+
+                    _DATA_.Items.Add(course);
+
+
+___________________________________________
+
+     <DataGrid x:Name="_DATA_" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="388,72,10,191">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header=" Course Name" Binding="{Binding courseName}" />
+                <DataGridTextColumn Header=" Course Code" Binding="{Binding courseCode}" />
+                <DataGridTextColumn Header=" Credits" Binding="{Binding noCredits}" />
+                <DataGridTextColumn Header=" Class Hours" Binding="{Binding  classHrs}" />
+            </DataGrid.Columns>
+
+        </DataGrid>
