@@ -58,4 +58,14 @@ var teenStudentsName = from s in studentList
 
 teenStudentsName.ToList().ForEach(s => Console.WriteLine(s.StudentName));
 
+
+_____________________________
+
+
+ Landing land = new Landing();
+            land.Show();
+            dt.Stop();
+            this.Close();
+
+
 		
