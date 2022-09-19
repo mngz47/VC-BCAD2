@@ -66,6 +66,18 @@ _____________________________
             land.Show();
             dt.Stop();
             this.Close();
+	    
+___________________
+
+ <DataGrid.Columns>
+                <DataGridTextColumn Header=" Code" Binding="{Binding code}" />
+                <DataGridTextColumn Header=" Name" Binding="{Binding name}" />
+                <DataGridTextColumn Header=" Number of credits" Binding="{Binding credits}" />
+                <DataGridTextColumn Header=" Class hours" Binding="{Binding  class_hours}" />
+
+                <DataGridTextColumn Header=" Self Study Hours" Binding="{Binding self_study_hours}" />
+                <DataGridTextColumn Header=" Remaining Study Hours" Binding="{Binding  rem_study_hours}" />
+            </DataGrid.Columns>
 
 
 		
